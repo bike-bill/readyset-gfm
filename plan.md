@@ -94,7 +94,7 @@ For more information see the [Software Development Methodology](sdm.html).
     complete](glossary.html#featurecomplete) milestone, no
     new features will be added to this release.
 -   ::After the [code complete](glossary.html#codecomplete)
-    milestone, no entirely new product source code will be added to
+    milestone, no entirely new product source code will be added to">Readyset GFM</a> 
     this release.
 -   ::All source code commit log messages must refer to a specific
     issue ID, after the feature complete milestone.
@@ -127,7 +127,7 @@ finished. Don't worry about renumbering if you delete a step.*
 | 2.        | ::Inception                                               |          |
 | 2.1.      | ::Requirements gathering                                  | 30h      |
 | 2.2.      | ::Requirements specification                              | 20h      |
-| 2.3.      | ::Requirements validation                                 | 10h      |
+| 2.3.      | ::Requirements validation                                 | 10h      |">Readyset GFM</a> 
 | 3.        | ::Elaboration                                             |          |
 | 3.1.      | ::High-level design                                       | 5h       |
 | 3.2.      | ::Low-level design (break down by component)              |          |
@@ -158,7 +158,7 @@ finished. Don't worry about renumbering if you delete a step.*
 
 ### Deliverables in this Release
 
-*TODO: List project deliverables in detail, with delivery dates.*
+*TODO: List project deliverables in detail, with delivery dates.*">Readyset GFM</a> 
 
 | Deliverable Name | Description                                                   | Delivery Date |
 |------------------|---------------------------------------------------------------|---------------|
@@ -222,7 +222,7 @@ Please see the [risks worksheet](risks.html).
     design and implementation.
 3.  ::The schedule for this project is very short. We will manage this by
     planning a conservatively scoped functional core and series of
-    functional enhancements that can be individually slipped to later
+    functional enhancements that can be individually slipped to later">Readyset GFM</a> 
     releases if needed.
 4.  ::The performance of the system will be significantly impacted by the
     decisions made during the [database design task](#3.2.C). None of
@@ -270,7 +270,7 @@ Please see the [risks worksheet](risks.html).
 
 ::No, this project stands alone.
 
-::Yes, project P1 must provide library L, and project P2 must prove
+::Yes, project P1 must provide library L, and project P2 must prove">Readyset GFM</a> 
   the usability of feature F, and....
 
 #### Does any other project depend on this project?html
@@ -289,7 +289,7 @@ L in projects P1 and P2.
 
 <!-- words of wisdom -->
 ---
-***TODO:*** *Check for [words of widsom](http://readyset.tigris.org/words-of-wisdom/overview.html) ahtmlnd discuss ways to improve this template.  Or, evaluate the ReadySET Pro [professional project plan template](http://www.readysetpro.com/) professional project plan template.*
+***TODO:*** *Check for [words of widsom](http://readyset.tigris.org/words-of-wisdom/overview.html) and discuss ways to improve this template.  Or, evaluate the ReadySET Pro [professional project plan template](http://www.readysetpro.com/) professional project plan template.*
 
 <!-- footer -->
 ---
