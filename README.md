@@ -16,6 +16,3 @@ You can clone the wiki from here
 https://github.com/bike-bill/readyset-gfm.wiki.git
 and copy them to your own project's 
 https://github.com/YOUR-USER/YOUR-PROJECT.wiki.git
-
-## License
-ReadySET is released under a [BSD License](http://opensource.org/licenses/bsd-license.php)
