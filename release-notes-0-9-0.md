@@ -1,5 +1,4 @@
 # ReadySET 0.9.0: Release Notes
------------------------------
 
 ### Product Release Information
 
