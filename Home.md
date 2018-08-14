@@ -1,4 +1,4 @@
-[Overview](Home.md) | [Project Plan](plan.md) |  [Workflows](index-all.md)
+[Overview](Home.md) | [Project Plan](plan.md) | [Workflows](index-all.md)
 
 # Project Overview
 
