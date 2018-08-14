@@ -1,29 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8"/>
-	<link type="image/png" href="assets/logo.png" rel="icon">
-	<title>ReadySet Markdown</title>
-</head>
-<script src="https://www.w3schools.com/lib/w3data.js"></script>
-<body>
-
-<topbar style="display:none;">
-	<item><a href="index.html">Overview</a></item>
-	<item><a href="plan.html">Project Plan</a></item>
-	<item><a href="index-all.html">Workflows</a></item>
-	<menu name="Themes"><item><a id="settheme"><b>Current</b></a></item></menu>
-	<toc></toc>
-</topbar>
-
-<xmp theme="readable" style="display:none;">
-<!-- Markdown content here -->
+[Overview](Home.md) | [Project Plan](plan.md) | [Workflows](index-all.md)
 
 # Project Plan
----
 
 ##### Project:
-::[PROJECTNAME](index.html)
+[::PROJECTNAME](Home.md)
 
 ##### Project Time-frame:
 ::STARTDATE - ENDDATE
@@ -48,7 +28,7 @@ project.
 needed. Use the worksheet to help identify and scope resource needs.*
 
 ### Summary of Project
-&nbsp;
+
 #### What are the business problem, scope, and goal of this project?
 
 For a summary of this project, see the [Project proposal](proposal.html).
@@ -307,22 +287,15 @@ L in projects P1 and P2.
 
 ::Yes. DETAILS....
 
-<!-- End Markdown content -->
-</xmp>
+<!-- words of wisdom -->
+---
+***TODO:*** *Check for [words of widsom][http://readyset.tigris.org/words-of-wisdom/overview.html] and discuss ways to improve this template.  Or, evaluate the ReadySET Pro [professional project plan template](http://www.readysetpro.com/) professional project plan template.*
 
-<div w3-include-html="_words-of-wisdom.html"></div>
-<div w3-include-html="_footer.html"></div>
 
-<script>
-	w3IncludeHTML();
-</script>
-
-<script src="http://strapdownjs.com/v/0.2/strapdown.js"></script>
-<!-- Include it AFTER strapdown -->
-<script src="assets/strapdown/strapdown-topbar.min.js"></script>
-<!-- Include it AFTER EVERYTHING -->
-<script src="assets/logo.js"></script>
-<script src="assets/themeswitcher.js"></script>
-
-</body>
-</html>
+<!-- footer -->
+---
+Your-Organization Proprietary
+	
+Copyright 2003-2004 Jason Robbins.  All rights reserved. [License terms](readyset-license.md). Retain this copyright statement whenever this file is used as a template.
+    
+Find <a href="https://github.com/bike-bill/readyset-gfm">Readyset GFM</a> on Github.
