@@ -1,6 +1,6 @@
-[Overview]<index.html>
-[Project Plan](plan.html)
-[Workflows](index-all.html)
+[Overview](Home.md) | 
+[Project Plan](plan.md) | 
+[Workflows](index-all.md)
 
 # Project Overview
 ---
