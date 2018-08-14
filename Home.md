@@ -1,6 +1,6 @@
-	<item><a href="index.html">Overview</a></item>
-	<item><a href="plan.html">Project Plan</a></item>
-	<item><a href="index-all.html">Workflows</a></item>
+	[Overview]<index.html>
+	[Project Plan](plan.html)
+	[Workflows](index-all.html)
 
 # Project Overview
 ---
