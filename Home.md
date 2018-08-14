@@ -1,11 +1,9 @@
-[Overview](Home.md) | 
-[Project Plan](plan.md) | 
-[Workflows](index-all.md)
+[Overview](Home.md) | [Project Plan](plan.md) | [Workflows](index-all.md)
 
 # Project Overview
----
 
 ### Mission and Scope
+*TODO: Answer these questions in your own words by filling in each*
 
 #### What problem does this project address?
 ::2-4 SENTENCE PROBLEM
@@ -49,7 +47,9 @@ functionality and a wider set of testers.
 |By Audience          |Documents                                                                                                                                                                                                                                                                                                                   |
 |---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | For Everyone:       | [Project overview](index.html), [Project proposal](proposal.html), [Target audience and benefits](target-and-benefits.html), [Statement of user needs](user-needs.html), [Software requirements specification](srs.html), [Project plan](plan.html), [Release checklist](release-checklist.html), [Glossary](glossary.html)|
-| For Management:     | [Project resource needs](resource-needs.html), [Status report](status-report.html)                                                                                                                                                                                                                                         |
+| For Management:     | [Project r---
+7
+esource needs](resource-needs.html), [Status report](status-report.html)                                                                                                                                                                                                                                         |
 | For Developers:     | [Design](design.html), [Review meeting notes](review-meeting-notes.html), [Software development methodology](sdm.html)                                                                                                                                                                                                     |
 | For QA:             | [QA Plan](qa-plan.html)                                                                                                                                                                                                                                                                                                    |
 | For End Users:      | [Install / Quick start](install.html), [User guide](userguide.html), [Release notes](release-notes.html)                                                                                                                                                                                                                   |
