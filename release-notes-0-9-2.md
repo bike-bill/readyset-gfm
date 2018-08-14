@@ -1,7 +1,6 @@
-ReadySET 0.9.2: Release Notes {#readyset-0.9.2-release-notes}
------------------------------
+# ReadySET 0.9.2: Release Notes
 
-### Product Release Information {#product-release-information}
+### Product Release Information
 
 |                   |                                                                                                                                   |
 |-------------------|-----------------------------------------------------------------------------------------------------------------------------------|
@@ -10,7 +9,7 @@ ReadySET 0.9.2: Release Notes {#readyset-0.9.2-release-notes}
 | Release Date:     | 2004/09/21                                                                                                                        |
 | Customer Support: | For more information or support, please visit our [website](http://readyset.tigris.org/) or email us at <dev@readyset.tigris.org> |
 
-### Introduction {#introduction}
+### Introduction
 
 This document contains the release notes for ReadySET version 0.9.2. The
 following sections describe the release in detail and provide
@@ -22,12 +21,12 @@ feedback is important to us, please help us make this the best product
 possible. Keep in mind that we are continuing to work on this product
 and things may change in the future.
 
-### What's New? {#whats-new}
+### What's New?
 
 -   Many small quality improvements. See "Recent Changes" below
     for details.
 
-### Installation and Upgrade Notes {#installation-and-upgrade-notes}
+### Installation and Upgrade Notes
 
 Installation
 :   ReadySET is not a program, it is just a set of XHTML templates, so
@@ -53,14 +52,14 @@ Version Compatibility
 :   If you've been using an earlier version of ReadySET, see the
     [upgrade HOWTO](http://readyset.tigris.org/docs/HOWTO-upgrade.html).
 
-### Recent Changes {#recent-changes}
+### Recent Changes
 
 | ID  | Type   | Summary                 |
 |-----|--------|-------------------------|
 | 60  | DEFECT | spelling errors         |
 | 61  | DEFECT | xhtml validation errors |
 
-### Known Problems and Workarounds {#known-problems-and-workarounds}
+### Known Problems and Workarounds
 
 There are no known problems in this release.
 
