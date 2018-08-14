@@ -36,7 +36,7 @@ For a summary of this project, see the [Project proposal](proposal.html).
 #### Who will sponsor, manage, and lead the project?
 
 - ::Sponsor: PERSON-NAME
-- ::Manager: PERSON-NAME
+- ::Manager: PERSON-NAMEhtml
 - ::Technical lead: PERSON-NAME
 
 #### What authority does the project manager have?
@@ -47,7 +47,7 @@ For a summary of this project, see the [Project proposal](proposal.html).
 - ::Assign specific tasks to other departments
 - ::Negotiate requirements and schedules with customers
 - ::Negotiate with vendors, suppliers, and partners
-
+html
 #### What planning lessons were learned in previous releases?
 
 ::None yet. This is the first release.
@@ -58,7 +58,7 @@ For a summary of this project, see the [Project proposal](proposal.html).
 - ::There are always defects. We planned time to test, but we forgot to plan time to fix the defects.
   On this project, we will actually estimate the number of undetected defects.
 - ::Issue XXXX made us realize that we forgot to plan time for DEVELOPMENT-TASK.
-
+html
 ### Summary of Methodology
 &nbsp;
 #### What general development approach will be used?
@@ -74,7 +74,7 @@ For more information see the [Software Development Methodology](sdm.html).
 
 #### What development and collaboration tools will be use?
 
-::We plan to use the following tools extensively through out the project:
+::We plan to use the following tools extensively through out the project:html
 
 - ::Project website
 - ::Project mailing lists
@@ -168,7 +168,7 @@ finished. Don't worry about renumbering if you delete a step.*
 | Deliverable Name | ::Description                                                 | Delivery Date |
 
 ### Schedule for this Release
-
+html
 *TODO: Make the rows in this table match the steps in your WBS above. If
 you have a large number of detailed steps, you can skip the most
 detailed ones. The columns of the table represent weeks of calendar
@@ -273,7 +273,7 @@ Please see the [risks worksheet](risks.html).
 ::Yes, project P1 must provide library L, and project P2 must prove
   the usability of feature F, and....
 
-#### Does any other project depend on this project?
+#### Does any other project depend on this project?html
 
 ::No, project is not producing any components that will be used in
 other current projects.
@@ -283,19 +283,18 @@ L in projects P1 and P2.
 
 #### Are there any other important dependencies that will affect this project?
 
-::No, everything is covered above.
+::No, everything is covered above.html
 
 ::Yes. DETAILS....
 
 <!-- words of wisdom -->
 ---
-***TODO:*** *Check for [words of widsom][http://readyset.tigris.org/words-of-wisdom/overview.html] and discuss ways to improve this template.  Or, evaluate the ReadySET Pro [professional project plan template](http://www.readysetpro.com/) professional project plan template.*
-
+***TODO:*** *Check for [words of widsom](http://readyset.tigris.org/words-of-wisdom/overview.html) ahtmlnd discuss ways to improve this template.  Or, evaluate the ReadySET Pro [professional project plan template](http://www.readysetpro.com/) professional project plan template.*
 
 <!-- footer -->
 ---
-Your-Organization Proprietary
+::Your-Organization Proprietary
 	
 Copyright 2003-2004 Jason Robbins.  All rights reserved. [License terms](readyset-license.md). Retain this copyright statement whenever this file is used as a template.
     
-Find <a href="https://github.com/bike-bill/readyset-gfm">Readyset GFM</a> on Github.
+Find [Readyset GFM](https://github.com/bike-bill/readyset-gfm) on Github.
