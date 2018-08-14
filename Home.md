@@ -6,8 +6,6 @@
 ---
 
 ### Mission and Scope
-&nbsp;
-*TODO: Answer these questions in your own words by filling in each*
 
 #### What problem does this project address?
 ::2-4 SENTENCE PROBLEM
