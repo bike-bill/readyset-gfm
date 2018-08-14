@@ -1,9 +1,9 @@
 Note: this is an old document from the html version of Readyset.
 
-ReadySET: Recommended Tools {#readyset-recommended-tools}
----------------------------
+# ReadySET: Recommended Tools
 
-### Any Operating System {#any-operating-system}
+
+### Any Operating System
 
 Text Editors
 
@@ -21,7 +21,7 @@ Utilities
 :   -   [Tidy](http://tidy.sourceforge.net/): detects errors in HTML.
     -   [W3 XHTML validator](http://validator.w3.org/)
 
-### Windows Operating System {#windows-operating-system}
+### Windows Operating System
 
 Text Editors
 
@@ -39,7 +39,7 @@ XML Editors
 
 :   -   TBD
 
-### Linux Operating System {#linux-operating-system}
+### Linux Operating System
 
 Text Editors
 
@@ -53,7 +53,7 @@ XML Editors
 
 :   -   TBD
 
-### Further Reading and Resources {#further-reading-and-resources}
+### Further Reading and Resources
 
 Books
 
