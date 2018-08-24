@@ -20,6 +20,5 @@ git clone git@github.com:bike-bill/readyset-gfm.wiki.git
 ```
 
 and copy them to your own project's 
-https://github.com/YOUR-USER/YOUR-PROJECT.wiki.git
-by following the instructions here
-https://help.github.com/articles/adding-and-editing-wiki-pages-locally/
+```https://github.com/YOUR-USER/YOUR-PROJECT.wiki.git```
+by following these [instructions](https://help.github.com/articles/adding-and-editing-wiki-pages-locally/).
