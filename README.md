@@ -6,7 +6,7 @@ This is a conversion of the [Tigris.org](http://www.tigris.org/) distribution of
 
 The original ReadySET project is located [here](http://readyset.tigris.org/).  There has been no visible development on the original project since [version 0.9.3](http://readyset.tigris.org/docs/release-notes-0-9-3.html) in 2004, but I find it useful, especially in markdown format.  
 
-The original Tigris HTML templates are located [here](http://readyset.tigris.org/nonav/templates/frameset.html).  There is also a clone of the original html files on Github at [@brianbaquiran/readyset](https://github.com/brianbaquiran/readyset). 
+The original Tigris HTML templates are located [here](http://readyset.tigris.org/nonav/templates/frameset.html).  There are also a clones of the original html files on Github at [@brianbaquiran/readyset](https://github.com/brianbaquiran/readyset), [@JNRowe/readyset](https://github.com/JNRowe/readyset), and [@alejo8591/ReadySET](https://github.com/alejo8591/ReadySET). 
 
 ## Where can I see the GFM templates?
 You can see the GFM templates in the [wiki](https://github.com/bike-bill/readyset-gfm/wiki).
