@@ -22,3 +22,13 @@ git clone git@github.com:bike-bill/readyset-gfm.wiki.git
 and copy them to your own project's 
 ```https://github.com/YOUR-USER/YOUR-PROJECT.wiki.git```
 by following these [instructions](https://help.github.com/articles/adding-and-editing-wiki-pages-locally/).
+
+One you have the files in place in your projects wiki, Edit the templates to fit the needs of your project
+
+- Follow instructions that appead in the "sticky notes", TODO, or TIPS sections
+- Replace text in ALL CAPS and lines that start with :: (double colons) with text that describes your project
+- "Chip away" text that does not apply to your project
+- Add text, diagrams, or links as needed
+- Use the checklists to catch common errors and improve the quality of your documents.
+- Use the words-of-wisdom pages to help improve the document or deepen your understanding of relevant issues.
+
