@@ -13,7 +13,7 @@ You can see the GFM templates in the [wiki](https://github.com/bike-bill/readyse
 
 ## How to use
 You can clone the wiki from here
-https://github.com/bike-bill/readyset-gfm.wiki.git
+https://github.com/bike-bill/readyset-gfm/wiki
 
 ```bash
 git clone git@github.com:bike-bill/readyset-gfm.wiki.git
