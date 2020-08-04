@@ -30,5 +30,5 @@ One you have the files in place in your project's wiki, Edit the templates to fi
 - "Chip away" text that does not apply to your project
 - Add text, diagrams, or links as needed
 - Use the checklists to catch common errors and improve the quality of your documents.
-- Use the words-of-wisdom pages to help improve the document or deepen your understanding of relevant issues.
+- Use the [words-of-wisdom pages](../../wiki/Words-of-Wisdom) to help improve the document or deepen your understanding of relevant issues.
 
