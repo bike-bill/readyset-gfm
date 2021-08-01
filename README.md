@@ -8,7 +8,7 @@ The original ReadySET project is located [here](http://readyset.tigris.org/).  T
 
 The original Tigris HTML templates are located [here](http://readyset.tigris.org/nonav/templates/frameset.html).  There are also a clones of the original html files on Github at [@brianbaquiran/readyset](https://github.com/brianbaquiran/readyset), [@JNRowe/readyset](https://github.com/JNRowe/readyset), and [@alejo8591/ReadySET](https://github.com/alejo8591/ReadySET). 
 
-## Where can I see the GFM templates?
+## :fire: Where can I see the GFM templates?
 You can see the GFM templates in the [wiki](https://github.com/bike-bill/readyset-gfm/wiki).
 
 ## How to use
@@ -30,5 +30,5 @@ One you have the files in place in your project's wiki, Edit the templates to fi
 - "Chip away" text that does not apply to your project
 - Add text, diagrams, or links as needed
 - Use the checklists to catch common errors and improve the quality of your documents.
-- Use the words-of-wisdom pages to help improve the document or deepen your understanding of relevant issues.
+- Use the [words-of-wisdom pages](../../wiki/Words-of-Wisdom) to help improve the document or deepen your understanding of relevant issues.
 
