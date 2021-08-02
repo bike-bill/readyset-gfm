@@ -1,6 +1,6 @@
 # ReadySET 0.9.0: Release Notes
 
-### Product Release Information
+## Product Release Information
 
 |                   |                                                                                                                                   |
 |-------------------|-----------------------------------------------------------------------------------------------------------------------------------|
@@ -9,7 +9,7 @@
 | Release Date:     | 2004/03/02                                                                                                                        |
 | Customer Support: | For more information or support, please visit our [website](http://readyset.tigris.org/) or email us at <dev@readyset.tigris.org> |
 
-### Introduction
+## Introduction
 
 This document contains the release notes for ReadySET version 0.9.0. The
 following sections describe the release in detail and provide
@@ -21,18 +21,18 @@ feedback is important to us, please help us make this the best product
 possible. Keep in mind that we are continuing to work on this product
 and things may change in the future.
 
-### What's New?
+## What's New?
 
--   Added templates to help visualize and record test runs
--   Enhanced glossary with data dictionary examples and technical terms
-    related to software quality
--   Enhanced and refactored checklists and words-of-wisdom
--   More consistent cross-links and page headers
--   Improved and simplified XHTML markup
--   Many small quality improvements. See "Recent Changes" below
-    for details.
+- Added templates to help visualize and record test runs
+- Enhanced glossary with data dictionary examples and technical terms
+  related to software quality
+- Enhanced and refactored checklists and words-of-wisdom
+- More consistent cross-links and page headers
+- Improved and simplified XHTML markup
+- Many small quality improvements. See "Recent Changes" below
+  for details.
 
-### Installation and Upgrade Notes
+## Installation and Upgrade Notes
 
 Installation
 :   ReadySET is not a program, it is just a set of XHTML templates, so
@@ -58,7 +58,7 @@ Version Compatibility
 :   If you've been using an earlier version of ReadySET, see the
     [upgrade HOWTO](http://readyset.tigris.org/docs/HOWTO-upgrade.html).
 
-### Recent Changes
+## Recent Changes
 
 | ID  | Type        | Summary                                     |
 |-----|-------------|---------------------------------------------|
@@ -76,6 +76,6 @@ Version Compatibility
 | 43  | ENHANCEMENT | use linklist to simplify markup             |
 | 44  | DEFECT      | release-notes markup is inconsistent        |
 
-### Known Problems and Workarounds
+## Known Problems and Workarounds
 
 There are no known problems in this release.
