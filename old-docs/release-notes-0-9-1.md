@@ -65,7 +65,7 @@ Version Compatibility
 
 | ID  | Type        | Summary                                              |
 |-----|-------------|------------------------------------------------------|
-| 42  | ENHANCEMENT | automate prackaging procedure                        |
+| 42  | ENHANCEMENT | automate packaging procedure                        |
 | 47  | ENHANCEMENT | move interview checklist out of interview-notes.html |
 | 48  | ENHANCEMENT | new questions in interviews                          |
 | 50  | ENHANCEMENT | clarify component.html "available interfaces"        |
