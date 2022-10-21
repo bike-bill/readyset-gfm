@@ -1,5 +1,5 @@
 # ReadySET-GFM
-Ready-to-use Software Engineering Templates in GFM format, ready to use in a Github Wiki.
+Ready-to-use Software Engineering Templates in GFM format, ready to use in a [Github Wiki](https://github.com/bike-bill/readyset-gfm/wiki).
 
 ## About
 This is a conversion of the [Tigris.org](http://www.tigris.org/) distribution of the ReadySET Software Engineering Templates into GitHub Flavored Markdown format. 
