@@ -2,12 +2,12 @@
 
 ## Product Release Information
 
-|                   |                                                                                                                                   |
-|-------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| Product:          | [ReadySET](http://readyset.tigris.org/)                                                                                           |
-| Release Number:   | 0.9.3                                                                                                                             |
-| Release Date:     | 2004/10/27                                                                                                                        |
-| Customer Support: | For more information or support, please visit our [website](http://readyset.tigris.org/) or email us at <dev@readyset.tigris.org> |
+|                   |                                                                                                                                                                              |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Product:          | [ReadySET](https://web.archive.org/web/20200701142616/http://readyset.tigris.org/)                                                                                           |
+| Release Number:   | 0.9.3                                                                                                                                                                        |
+| Release Date:     | 2004/10/27                                                                                                                                                                   |
+| Customer Support: | For more information or support, please visit our [website](https://web.archive.org/web/20200701142616/http://readyset.tigris.org/) or email us at <dev@readyset.tigris.org> |
 
 ## Introduction
 
@@ -31,33 +31,31 @@ and things may change in the future.
 ## Installation and Upgrade Notes
 
 Installation
-:   ReadySET is not a program, it is just a set of XHTML templates, so
-    no installation is needed.
-:   Just unzip the archive, copy into your project website or version
-    control system, and edit the templates to describe your project.
+: ReadySET is not a program, it is just a set of XHTML templates, so
+no installation is needed.
+: Just unzip the archive, copy into your project website or version
+control system, and edit the templates to describe your project.
 
 Manifest
-:   This release consists of the following items:
-    -   XHTML templates and CSS stylesheets
-    -   FAQ, HOWTO-upgrade, recommended tools, and release notes
-        (this file)
+: This release consists of the following items: - XHTML templates and CSS stylesheets - FAQ, HOWTO-upgrade, recommended tools, and release notes
+(this file)
 
 Minimum System Requirements
-:   You can use ReadySET on any computer that can run a text editor and
-    a web browser.
-:   It is recommended that you use a text editor to edit the templates,
-    however you may try other [recommended
-    tools](http://readyset.tigris.org/docs/recommended-tools.html) for
-    XHTML editing.
+: You can use ReadySET on any computer that can run a text editor and
+a web browser.
+: It is recommended that you use a text editor to edit the templates,
+however you may try other [recommended
+tools](https://web.archive.org/web/20200701142616/http://readyset.tigris.org/docs/recommended-tools.html) for
+XHTML editing.
 
 Version Compatibility
-:   If you've been using an earlier version of ReadySET, see the
-    [upgrade HOWTO](http://readyset.tigris.org/docs/HOWTO-upgrade.html).
+: If you've been using an earlier version of ReadySET, see the
+[upgrade HOWTO](https://web.archive.org/web/20200701142616/http://readyset.tigris.org/docs/HOWTO-upgrade.html).
 
 ## Recent Changes
 
 | ID  | Type        | Summary                     |
-|-----|-------------|-----------------------------|
+| --- | ----------- | --------------------------- |
 | 64  | ENHANCEMENT | integrate new risk template |
 | 65  | DEFECT      | HTML format problems        |
 

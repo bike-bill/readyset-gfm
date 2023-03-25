@@ -1,8 +1,9 @@
 ### Mission
+
 - [Browse templates](https://github.com/bike-bill/readyset-markdown)
 - [Download markdown templates](https://github.com/bike-bill/readyset-markdown)
-  or [Download original templates](http://readyset.tigris.org/servlets/ProjectDocumentList)
-- [Words-of-wisdom](http://readyset.tigris.org/words-of-wisdom/)
+  or [Download original templates](https://web.archive.org/web/20200701142616/http://readyset.tigris.org/servlets/ProjectDocumentList)
+- [Words-of-wisdom](https://web.archive.org/web/20200701142616/http://readyset.tigris.org/words-of-wisdom/)
 - [Professional version](http://www.readysetpro.com/)
 
 #### What problem does this project address?
@@ -31,7 +32,7 @@ avoid oversights.
 High-quality outlines, sample text, and checklists.
 
 - Uses simple web technologies: Pure XHTML and CSS (or alternatively Markdown).
-- Templates for *many* common software engineering documents. Including:
+- Templates for _many_ common software engineering documents. Including:
   - Project proposal template
   - Project plan template
   - Use case template
@@ -104,11 +105,11 @@ software developers. For more information, see
   software engineering in a university project course. They are now
   being enhanced, expanded, and used more widely by professionals
   in industry.
-- The template set is fairly complete and ready for use in real projects. 
-  You can [download](http://readyset.tigris.org/servlets/ProjectDocumentList) 
+- The template set is fairly complete and ready for use in real projects.
+  You can [download](https://web.archive.org/web/20200701142616/http://readyset.tigris.org/servlets/ProjectDocumentList)
   recent releases. We welcome your feedback.
-- For the latest news, see the 
-  [Project Announcements](http://readyset.tigris.org/servlets/ProjectNewsList).
+- For the latest news, see the
+  [Project Announcements](https://web.archive.org/web/20200701142616/http://readyset.tigris.org/servlets/ProjectNewsList).
 
 ### Applicability
 
@@ -123,7 +124,7 @@ text editor.
 
 1. Briefly [browse all templates](https://github.com/bike-bill/readyset-markdown)
 2. [Download markdown templates](https://github.com/bike-bill/readyset-markdown)
-   or [Download original templates](http://readyset.tigris.org/servlets/ProjectDocumentList) 
+   or [Download original templates](https://web.archive.org/web/20200701142616/http://readyset.tigris.org/servlets/ProjectDocumentList)
    the templates and unarchive
 3. Edit the templates to fit the needs of your project
 4. Place the templates on a web server where all your project
@@ -133,18 +134,18 @@ text editor.
      [recommended tools](docs/recommended-tools). (You can
      use Word, but that is strongly discouraged.)
    - Follow instructions that appead in yellow "sticky notes", TODO, or TIPS sections
-   - Replace text in ALL CAPS and lines that start with :: (double colons) 
+   - Replace text in ALL CAPS and lines that start with :: (double colons)
      with text that describes your project
    - [Chip away](docs/faq.html#chipaway)" text that does not
      apply to your project
    - Add text, diagrams, or links as needed
-6.  Use the checklists to catch common errors and improve the
-    quality of your documents.
-7.  Use the words-of-wisdom pages to help improve the document or
-    deepen your understanding of relevant issues.
-8.  Optionally, you may change fonts and colors in the
-    file css/inst.css.
-9.  If you have questions or insights about a templates, please read
-    the [FAQ](docs/faq.html) or send an email to
-    <dev@readyset.tigris.org>. You must subscribe to the mailing
-    list before you may post.
+6. Use the checklists to catch common errors and improve the
+   quality of your documents.
+7. Use the words-of-wisdom pages to help improve the document or
+   deepen your understanding of relevant issues.
+8. Optionally, you may change fonts and colors in the
+   file css/inst.css.
+9. If you have questions or insights about a templates, please read
+   the [FAQ](docs/faq.html) or send an email to
+   <dev@readyset.tigris.org>. You must subscribe to the mailing
+   list before you may post.

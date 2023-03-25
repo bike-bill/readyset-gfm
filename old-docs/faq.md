@@ -1,4 +1,6 @@
-# ReadySET: User FAQ
+<!-- markdownlint-disable-next-line first-line-h1  -->
+
+## ReadySET: User FAQ
 
 Note: This FAQ is is from the original html version of ReadySet.
 
@@ -7,7 +9,7 @@ Note: This FAQ is is from the original html version of ReadySet.
 #### What is ReadySET?
 
 It is a set of ready-to-use software engineering templates. Please,
-see the [ReadySET homepage](http://readyset.tigris.org/).
+see the [ReadySET homepage](https://web.archive.org/web/20200701142616/http://readyset.tigris.org/).
 
 #### Where does the name "ReadySET" come from?
 
@@ -45,8 +47,8 @@ more effectively. There are also products such as
 
 #### How can I obtain ReadySET?
 
-[Download it](http://readyset.tigris.org/servlets/ProjectDocumentList).
-Please, see the [ReadySET homepage](http://readyset.tigris.org/).
+[Download it](https://web.archive.org/web/20200701142616/http://readyset.tigris.org/servlets/ProjectDocumentList).
+Please, see the [ReadySET homepage](https://web.archive.org/web/20200701142616/http://readyset.tigris.org/).
 
 #### What licence covers ReadySET?
 
@@ -117,7 +119,7 @@ your specific project. In many cases, much of the process of filling
 in a template is reduced to "chipping away" at the sample text by
 removing text that does not apply to your project.
 
-[chipaway](chipaway) What is "chipping away"? 
+[chipaway](chipaway) What is "chipping away"?
 
 The term "chipping away" comes from an old joke: when a sculptor is
 asked how he carved a marble statue of a horse, he replies "It was
@@ -143,6 +145,7 @@ to make use of it. You can change the process impact box, but you
 should not need to.
 
 #### What is a "checklist"?
+
 ](#other-questions)
 There are two kinds of checklists:
 
@@ -161,7 +164,7 @@ types of sticky notes:
 
 - TODO: Instructs you on how to fill in the template. This is the
   minimum that you need to do. One of the main goals of ReadySET
-  is to help your team *quickly* carry out basic software
+  is to help your team _quickly_ carry out basic software
   engineering activities. The TODO sticky notes make that easy by](#other-questions)
   making the templates more self-explanatory.
 - TIP: Helps you think of better ways to fill in the template. One
@@ -251,11 +254,10 @@ Stay tuned to the ReadySET mailing list for information.
 #### My question is not on this page. How do I find the answer?
 
 Your question may have already been asked and answered, to find it:
-search the project [mail archives](http://readyset.tigris.org/servlets/SummarizeList?listName=dev)
-and [issue tracking system](http://readyset.tigris.org/servlets/ProjectIssues). If you
+search the project [mail archives](https://web.archive.org/web/20200701142616/http://readyset.tigris.org/servlets/SummarizeList?listName=dev)
+and [issue tracking system](https://web.archive.org/web/20200701142616/http://readyset.tigris.org/servlets/ProjectIssues). If you
 still don't find it, you can ask the question on the the ReadySET
 developers' mailing list or you can enter an issue. You must
 subscribe to the mailing list before you may post. For commercial
 support and training, see
 [ReadySET Pro](http://www.readysetpro.com/).
-
