@@ -17,7 +17,7 @@ You can see the GFM templates in the [wiki](https://github.com/bike-bill/readyse
 ## How to use
 
 You can clone the wiki from here
-https://github.com/bike-bill/readyset-gfm/wiki
+<https://github.com/bike-bill/readyset-gfm/wiki>
 
 ```bash
 git clone git@github.com:bike-bill/readyset-gfm.wiki.git
@@ -25,11 +25,11 @@ git clone git@github.com:bike-bill/readyset-gfm.wiki.git
 
 and copy them to your own project's
 `https://github.com/YOUR-USER/YOUR-PROJECT.wiki.git`
-by following these [instructions](https://help.github.com/articles/adding-and-editing-wiki-pages-locally/).
+by following these [instructions](https://docs.github.com/en/communities/documenting-your-project-with-wikis/adding-or-editing-wiki-pages#adding-or-editing-wiki-pages-locally).
 
 One you have the files in place in your project's wiki, Edit the templates to fit the needs of your project
 
-- Follow instructions that appead in the "sticky notes", TODO, or TIPS sections
+- Follow instructions that appear in the "sticky notes", TODO, or TIPS sections
 - Replace text in ALL CAPS and lines that start with :: (double colons) with text that describes your project
 - "Chip away" text that does not apply to your project
 - Add text, diagrams, or links as needed
