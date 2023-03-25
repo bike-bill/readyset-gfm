@@ -1,65 +1,65 @@
+<!-- markdownlint-disable-next-line first-line-h1  -->
 Note: this is an old document from the html version of Readyset.
 
 # ReadySET: Recommended Tools
 
+## Any Operating System
 
-### Any Operating System
-
-#### Text Editors
+### Text Editors
 
 - [Netbeans](http://www.netbeans.org/)
 - [Eclipse](http://www.eclipse.org/)
 - [xemacs](http://www.xemacs.org/)
 
-#### HTML Editors
+### HTML Editors
 
 - [Mozilla Editor](http://www.mozilla.org/): Easy to use.
   Spellcheck module available from mozdev.org.
 
-#### Utilities
+### Utilities
 
 - [Tidy](http://tidy.sourceforge.net/): detects errors in HTML.
 - [W3 XHTML validator](http://validator.w3.org/)
 
-### Windows Operating System
+## Windows Operating System
 
-#### Text Editors
+### Windows: Text Editors
 
 - Notepad: already installed on every machine, but lacks HTML
   support and spell check.
 - [Textpad](http://www.textpad.com/): Simple text editor. Includes
   HTML support and spellcheck.
 
-#### HTML Editors
+### Windows: HTML Editors
 
 - [Mozilla Editor](http://www.mozilla.org/): Easy to use.
   Spellcheck module available from mozdev.org.
 
-#### XML Editors
+### Windows: XML Editors
 
 - TBD
 
-### Linux Operating System
+## Linux Operating System
 
-#### Text Editors
+### Linux: Text Editors
 
 - Emacs, vi, etc.
 
-#### HTML Editors
+### Linux: HTML Editors
 
 - [Quanta Plus](http://quanta.sourceforge.net/)
 
-#### XML Editors
+### Linux: XML Editors
 
 - TBD
 
-### Further Reading and Resources
+## Further Reading and Resources
 
-#### Books
+### Books
 
 - [Books on HTML and CSS](http://jrobbins.org/books/)
 
-#### Websites
+### Websites
 
 - [Getting started with HTML](http://www.w3.org/MarkUp/Guide/): a
   gentle introduction
@@ -69,6 +69,6 @@ Note: this is an old document from the html version of Readyset.
 - [htmlhelp.com](http://htmlhelp.com/): good all-around site for
   HTML and related info
 - [OpenDirectory page on markup
-  langugages](http://directory.google.com/Top/Computers/Data_Formats/Markup_Languages/):
+  languages](http://directory.google.com/Top/Computers/Data_Formats/Markup_Languages/):
   Including XHTML and tools
   

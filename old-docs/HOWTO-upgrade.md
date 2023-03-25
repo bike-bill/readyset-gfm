@@ -1,3 +1,4 @@
+<!-- markdownlint-disable-next-line first-line-h1  -->
 Note: these are old instructions from the html version of Readyset
 
 ## [ReadySET: How to upgrade](#readyset-how-to-upgrade)
@@ -16,7 +17,7 @@ grow over time is not part of the templates at all, it is the [words of
 wisdom](https://web.archive.org/web/20200701142616/http://readyset.tigris.org/words-of-wisdom/) hosted on the
 ReadySET web site.
 
-### [Low-Tech Upgrade Proceedure](#low-tech-upgrade-proceedure)
+### [Low-Tech Upgrade Procedure](#low-tech-upgrade-procedure)
 
 You may simply cut and paste sections of HTML source code between new
 ReadySET templates and files that you have been using in your project.
@@ -28,7 +29,7 @@ very easy to update only as many or as few files as you desire.
 Check the release-notes.html in the new release of ReadySET for a
 summary of changes.
 
-### [High-Tech Upgrade Proceedure](#high-tech-upgrade-proceedure)
+### [High-Tech Upgrade Procedure](#high-tech-upgrade-procedure)
 
 For users that use CVS for their own project: you can use CVS's [vendor
 branch](http://cvsbook.red-bean.com/cvsbook.html#Tracking_Third-Party_Sources__Vendor_Branches_)
@@ -49,50 +50,44 @@ yourproject.
 
 Steps:
 
-1.  Unpack ReadySET v0.8.2 and add it to **your** CVS repository on a
-    vendor branch.
+1. Unpack ReadySET v0.8.2 and add it to **your** CVS repository on a
+   vendor branch.
 
           unzip ReadySET-082.zip
           cd ReadySET-082/templates
           cvs -d :pserver:username@cvs.yourcompany.com:/cvs import -m 'importing ReadySET v0.8.2' yourproject Tigris_org ReadySET_0_8_2
           cd ..
 
-
-2.  Unpack ReadySET v0.9.1 and add it to **your** CVS repository on the
-    same vendor branch.
+2. Unpack ReadySET v0.9.1 and add it to **your** CVS repository on the
+   same vendor branch.
 
           unzip ReadySET-091.zip
           cd ReadySET-091/templates
           cvs -d :pserver:username@cvs.yourcompany.com:/cvs import -m 'importing ReadySET v0.9.1' yourproject Tigris_org ReadySET_0_9_1
           cd ..
 
-
-3.  Create a working copy of your project documents (if you don't
-    already have one).
+3. Create a working copy of your project documents (if you don't
+   already have one).
 
            mkdir workingcopy
            cd workingcopy
            cvs -d :pserver:username@cvs.yourcompany.com:/cvs co yourproject
 
-
-4.  Merge the **differences** between the two vendor versions of
-    ReadySET into your working copy.
+4. Merge the **differences** between the two vendor versions of
+   ReadySET into your working copy.
 
            cd yourproject
            cvs update -j ReadySET_0_8_2 -j ReadySET_0_9_1
-
-
-5.  You are likely to see several messages from CVS about merging files
-    and conflicts. The CVS output lines that begin with "C"
-    indicate conflicts.
-6.  Edit your working copy files to resolve all conflicts. Browse the
-    files to make sure that they look OK. If any files have changed
-    names, you will have to cut and paste content from the old filename
-    to the new filename.
-7.  Commit your updated files to your repository
+5. You are likely to see several messages from CVS about merging files
+   and conflicts. The CVS output lines that begin with "C"
+   indicate conflicts.
+6. Edit your working copy files to resolve all conflicts. Browse the
+   files to make sure that they look OK. If any files have changed
+   names, you will have to cut and paste content from the old filename
+   to the new filename.
+7. Commit your updated files to your repository
 
            cvs commit -m 'updated project documents to use newer ReadySET templates'
-
 
 These steps are specific to CVS, but other version control systems
 likely provide analogous functionality.

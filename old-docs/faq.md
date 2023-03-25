@@ -1,5 +1,4 @@
 <!-- markdownlint-disable-next-line first-line-h1  -->
-
 ## ReadySET: User FAQ
 
 Note: This FAQ is is from the original html version of ReadySet.
@@ -24,7 +23,7 @@ The general idea came from a need for me to provide a lot of
 guidance to university students learning software engineering
 without spending time lecturing to them. This fits well with the
 tigris.org mission of promoting open source software engineering,
-and previous efforts, like [ArgoUML](http://argouml.tigris.org/) to
+and previous efforts, like [ArgoUML](https://web.archive.org/web/20200702035313/http://argouml.tigris.org/) to
 ease adoption of software engineering tools and practices
 in industry. The content of specific templates came from our
 understanding of software engineering literature, our experience on

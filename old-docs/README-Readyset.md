@@ -1,3 +1,4 @@
+<!-- markdownlint-disable-next-line first-line-h1  -->
 ### Mission
 
 - [Browse templates](https://github.com/bike-bill/readyset-markdown)
@@ -72,7 +73,7 @@ may be easily customized with any text or HTML editor.
 #### What is the scope of this project?
 
 We will build templates for common software engineering documents
-inspired by our own exprience.
+inspired by our own experience.
 
 #### What are the high-level assumptions or ground rules for the project?
 
@@ -133,7 +134,8 @@ text editor.
    - Use a text editor or an HTML editor. Please see our list of
      [recommended tools](docs/recommended-tools). (You can
      use Word, but that is strongly discouraged.)
-   - Follow instructions that appead in yellow "sticky notes", TODO, or TIPS sections
+   - Follow instructions that appear in yellow "sticky notes", TODO, or TIPS
+     sections
    - Replace text in ALL CAPS and lines that start with :: (double colons)
      with text that describes your project
    - [Chip away](docs/faq.html#chipaway)" text that does not

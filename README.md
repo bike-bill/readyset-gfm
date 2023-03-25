@@ -4,7 +4,7 @@ Ready-to-use Software Engineering Templates in GFM format, ready to use in a [Gi
 
 ## About
 
-This is a conversion of the [Tigris.org](http://www.tigris.org/) distribution of the ReadySET Software Engineering Templates into GitHub Flavored Markdown format.
+This is a conversion of the [Tigris.org](https://web.archive.org/web/20200701142616/http://tigris.org/) distribution of the ReadySET Software Engineering Templates into GitHub Flavored Markdown format.
 
 The original ReadySET project is located [here](https://web.archive.org/web/20200701142616/http://readyset.tigris.org/). There has been no visible development on the original project since [version 0.9.3](https://web.archive.org/web/20200701142616/http://readyset.tigris.org/docs/release-notes-0-9-3.html) in 2004, but I find it useful, especially in markdown format.
 
